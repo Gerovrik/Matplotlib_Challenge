@@ -1,3 +1,11 @@
+Observational Trends:
+
+1.Capomulin and Ramicane had the best results with lowering the Final tumor volume
+
+2.Overall Gender was very equal and would take a deeper dive to find if Gender of the Rat had a effect on the drug individually
+
+3.There was a large skew in drug remimen counts from the top two drugs capomulin and ramicane compared to Propriva, which makes me question why so much less data was avalible, did it kill the rat by accelerating the tumors since even the placebo had more value counts than it ?
+
 # Matplotlib_Challenge
 
 ## Background
